@@ -1,4 +1,4 @@
-/* Test local array initialization (TestArrayInit.c) */
+/* Test local array initialization (TestArrayInit.c) */#
 
 #include <stdio.h>
 #define SIZE 5
